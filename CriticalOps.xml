@@ -1,12 +1,12 @@
 [
   {
-    "serverstatus": "copsroot",
+    "serverstatus": "copsroot3281_patched",
     "gamename": "Critical Ops",
     "gamepkg": "com.criticalforceentertainment.criticalops",
     "gameversion": "1.46.0",
-    "libs": "https://raw.githubusercontent.com/daeumduo/cops/main/copsroot3281.bin",
-    "emulibs": "https://raw.githubusercontent.com/daeumduo/cops/main/copsroot3281.bin",
-    "binaryname": "copsroot3281.bin",
-    "emubinaryname": "copsroot3281.bin"
+    "libs": "https://raw.githubusercontent.com/daeumduo/cops/main/copsroot3281_patched.bin",
+    "emulibs": "https://raw.githubusercontent.com/daeumduo/cops/main/copsroot3281_patched.bin",
+    "binaryname": "copsroot3281_patched.bin",
+    "emubinaryname": "copsroot3281_patched.bin"
   }
 ]
